@@ -280,12 +280,12 @@ background-color: rgba(255, 255, 128, 0.8);
 }
 .home .btn span {
   font-weight: 700;
-  font-size: 1.7rem;
+  font-size: 3rem;
   letter-spacing: 0.1rem;
 }
 .home .btn i {
   margin-left: 0.3rem;
-  font-size: 1.5rem;
+  font-size: 3rem;
   transition: 0.3s;
 }
 .home .btn:hover {
